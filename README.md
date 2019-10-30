@@ -1,0 +1,3 @@
+- [Computer vision](https://github.com/Farhad87/DL/tree/master/CV "Разработки по компьютерному зрению")
+- [Natural Language Precessing](https://github.com/Farhad87/DL/tree/master/NLP "Разработки по обработке языка")
+- [Sequences](https://github.com/Farhad87/DL/tree/master/sequences "Разработки по последовательным данным")

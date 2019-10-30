@@ -2,4 +2,4 @@ venv_cv/
 venv_nlp/
 venv_sequences/
 .idea
-
+.ipynb_checkpoints
