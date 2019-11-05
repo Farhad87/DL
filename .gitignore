@@ -1,5 +1,6 @@
 venv_cv/
 venv_nlp/
 venv_sequences/
+CV/saved_model/*
 .idea
 .ipynb_checkpoints
